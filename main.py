@@ -373,7 +373,7 @@ def draw_icon(page, kind, x, y):
 # ---------------------------------------------------------------------------
 TILES = [
     ("THE HAGUE", "court",
-     "WORLD COURT: MYANMAR GUILTY OF GENOCIDE",
+     "WORLD COURT FINDS MYANMAR RESPONSIBLE FOR GENOCIDE",
      "ICJ RULES 9-6 MYANMAR COMMITTED GENOCIDE AGAINST THE ROHINGYA IN "
      "2017 AND ORDERS REPARATIONS."),
     ("MARKETS", "chart",
